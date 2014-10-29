@@ -342,10 +342,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>EditBillingInfo</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>EditBrandTemplates</name>
     </userPermissions>
     <userPermissions>
